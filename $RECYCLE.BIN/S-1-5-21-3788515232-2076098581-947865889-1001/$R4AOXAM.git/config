@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	worktree = J:/
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/phamtruong2k1/Android_HIT.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

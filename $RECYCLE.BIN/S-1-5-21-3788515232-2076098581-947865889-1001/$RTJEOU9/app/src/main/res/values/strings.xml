@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App_Note</string>
+    <string name="okla">App_Note</string>
+    <string name="okla2" translatable="false">App_Note</string>
+    <string name="okla3" translatable="false">App_Note</string>
+    <string name="okla4" translatable="false">App_Note</string>
+    <string name="okla5" translatable="false">App_Note</string>
+    <string name="okla6" translatable="false">App_Note</string>
+    <string name="okla7" translatable="false">App_Note</string>
+</resources>
